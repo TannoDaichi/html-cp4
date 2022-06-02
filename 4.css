@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head{
+    background-color:red;
+    height: 50px;
+    width: 100%;
+}
+
+.main{
+    background-color: orange;
+    height: 500px;
+    width: 100%;
+}
+
+.karada{
+    height: 1400px;
+    width: 960px;
+    display: flex;
+    justfy-content:center;
+    margin: 0 auto;
+}
+
+.hidari{
+    background-color: lime;
+    height: 1400px;
+    width: 230px;
+}
+
+.naka{
+    background-color: green;
+    height: 1400px;
+    width: 500px;
+}
+
+.migi{
+    background-color: lime;
+    height: 1400px;
+    width: 230px;
+}
+
+.footer {
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+}
